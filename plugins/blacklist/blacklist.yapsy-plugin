@@ -1,0 +1,8 @@
+[Core]
+Name = blacklist
+Module = blacklist
+
+[Documentation]
+Descrption = Example plugin to extract features from a blacklist.
+Author = Wesley Painter
+Version = 1.0

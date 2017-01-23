@@ -1,0 +1,8 @@
+[Core]
+Name = list.txt
+Module = list
+
+[Documentation]
+Descrption = Plugin for using keywords from a newline delineated list.
+Author = Wesley Painter
+Version = 1.0

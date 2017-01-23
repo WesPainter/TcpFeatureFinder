@@ -1,0 +1,8 @@
+[Core]
+Name = bulk_extractor
+Module = bulk_extractor_plugin
+
+[Documentation]
+Descrption = Parses bulk_extractor output files for features
+Author = Wesley Painter
+Version = 1.0
